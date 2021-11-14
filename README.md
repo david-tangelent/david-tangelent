@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @david-tangelent
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning state management with Provider
-- 💞️ I’m looking to collaborate on anything interesting
+- 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me ... david@tangelent.com
 
 <!---
